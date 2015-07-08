@@ -21,6 +21,7 @@ The output file `out.bbf` will contain your Binary Brainfuck code.
 Instead of using the punctuation characters you'd normally use in Brainfuck, you use these:
 
 Brainfuck | Binary Brainfuck
+--- | ---
 `>` | `000`
 `<` | `001`
 `+` | `010`
